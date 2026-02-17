@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "home": "Home",
+    "tours": "Tours",
+    "dayTrips": "Day Trips",
+    "activities": "Activities",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Discover the Magic of Morocco",
+    "subtitle": "Customized tours, day trips, and unforgettable experiences across Morocco",
+    "cta": "Explore our tours"
+  },
+  "common": {
+    "days": "days",
+    "from": "From",
+    "learnMore": "Learn more",
+    "bookNow": "Book now",
+    "viewAll": "View all",
+    "readMore": "Read more",
+    "enquire": "Enquire now"
+  },
+  "footer": {
+    "about": "Travel at Morocco is your specialist for tours in Morocco. We create unforgettable travel experiences with expert guides.",
+    "quickLinks": "Quick links",
+    "contact": "Contact",
+    "email": "Email",
+    "phone": "Phone",
+    "followUs": "Follow us",
+    "rights": "All rights reserved"
+  },
+  "tours": {
+    "title": "Our Morocco Tours",
+    "description": "Explore Morocco with our expertly crafted guided tours",
+    "duration": "Duration",
+    "departure": "Departure from"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Have questions? We're here to help",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "success": "Message sent successfully!",
+    "error": "Error sending message"
+  }
+}
